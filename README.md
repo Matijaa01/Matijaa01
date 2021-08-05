@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Matijaa01
+- 👀 I’m interested in programming, problem solving in general
+- 🌱 I’m currently learning python, javascript 
